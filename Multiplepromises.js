@@ -1,7 +1,9 @@
 
 
 
-
+/**
+*declaring two promises in all function as arguments.
+*/
  function all(promise1, promise2) {
     var counter = 0;
     var array = [];
